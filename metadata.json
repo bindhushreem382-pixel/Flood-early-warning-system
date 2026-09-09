@@ -1,0 +1,6 @@
+{
+  "name": "Early Flood Awareness and Warning System",
+  "description": "Real-time IoT environmental monitoring and AI early warning system detecting flood risk with at least 15-minute advance alert dispatch, GIS mapping, and multi-channel emergency broadcast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
